@@ -1,0 +1,19 @@
+# --- Web Framework & Core Server Routing ---
+Flask==3.0.3
+Flask-Cors==4.0.1
+gunicorn==22.0.0
+python-dotenv==1.0.1
+
+# --- Google Cloud & Generative AI Infrastructure ---
+google-cloud-aiplatform==1.59.0
+google-cloud-storage==2.17.0
+google-genai==0.1.1
+
+# --- Sovereign Tooling, Agentic Bridges & Edge Clusters ---
+google-adk==1.28.0
+mcp==1.27.1
+
+# --- Compliance Automation & Document Compilation (WeasyPrint / FPDF) ---
+fpdf2==2.7.9
+markdown==3.7
+weasyprint==62.3
